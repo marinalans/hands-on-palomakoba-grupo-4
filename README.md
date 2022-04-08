@@ -5,7 +5,7 @@
 </p>
 
 ### :point_right: Participantes:
-| [<img src="" width=115><br><sub>Domingos Fernandes Rodrigues</sub>](https://github.com/) |  [<img src="" width=115><br><sub>Felipe Salvatierra da Silva</sub>](https://github.com/) |  [<img src="" width=115><br><sub>João Vitor Barbosa Lima</sub>](https://github.com/) | [<img src="https://avatars.githubusercontent.com/u/14960123?v=4" width=115><br><sub>Marina Lans</sub>](https://github.com/marinalans) |  [<img src="" width=115><br><sub>Matheus Melo Nascimento</sub>](https://github.com/)
+| [<img src="https://avatars.githubusercontent.com/u/91282989?v=4" width=115><br><sub>Domingos Fernandes Rodrigues</sub>](https://github.com/domingosfernandesrodrigues) |  [<img src="https://avatars.githubusercontent.com/u/25957853?v=4" width=115><br><sub>Felipe Salvatierra da Silva</sub>](https://github.com/felipesalavtierra) |  [<img src="https://avatars.githubusercontent.com/u/75802889?v=4" width=115><br><sub>João Vitor Barbosa Lima</sub>](omeg4m4ster) | [<img src="https://avatars.githubusercontent.com/u/14960123?v=4" width=115><br><sub>Marina Lans</sub>](https://github.com/marinalans) |  [<img src="https://avatars.githubusercontent.com/u/93750621?v=4" width=115><br><sub>Matheus Melo Nascimento</sub>](https://github.com/MatheusMeloN)
 | :---: | :---: | :---: | :---: | :---: |
 
 ### 📁 Backlog das Sprints
